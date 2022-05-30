@@ -1,0 +1,49 @@
+.bodyC{
+    display: flex;
+    align-items: center;
+    padding: 1rem
+}
+
+.card{
+    border-radius: 5px;
+    padding: 1.25rem;
+    box-shadow: 0 0 20px;
+}
+
+.imagem{
+    height: 8.25rem;
+    width: auto;
+}
+
+.text-container {
+    width: 500px;
+    padding: 10px;
+}
+    
+    
+    
+.text-container h2 {
+    margin: 0 0 5px;
+}
+    
+    
+    
+.text-container .description {
+    max-width: 500px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.btn {
+    padding: 0.5rem ;
+    background-color: chocolate;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(18, 172, 18);
+    transition: 2.5ms;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}

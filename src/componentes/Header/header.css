@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2.25rem;
+    background-color: #333;
+}
+
+.tt {
+    color: #fff;
+    box-shadow: 60px -8px chocolate; 
+}

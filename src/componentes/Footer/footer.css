@@ -1,0 +1,19 @@
+.boxFooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background-color: #333;
+}
+
+.box{
+  display: flex;
+}
+
+.more {
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  text-align: left;
+}
